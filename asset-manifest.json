@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.76e9c6d1.css",
+    "main.js": "./static/js/main.6a8044a7.js",
+    "static/js/787.56e99e0e.chunk.js": "./static/js/787.56e99e0e.chunk.js",
+    "static/media/FuturaPTDemiOblique.otf": "./static/media/FuturaPTDemiOblique.27ef7a10b75c35ece3b3.otf",
+    "static/media/FuturaPTExtraBold.otf": "./static/media/FuturaPTExtraBold.b0a404e778ba6bde9d55.otf",
+    "static/media/FuturaPTLightOblique.otf": "./static/media/FuturaPTLightOblique.730652294df6fc97b7e5.otf",
+    "static/media/FuturaPTBookOblique.otf": "./static/media/FuturaPTBookOblique.d04a7475b077300889b0.otf",
+    "static/media/FuturaPTBold.otf": "./static/media/FuturaPTBold.b22b8109a56a2445c366.otf",
+    "static/media/FuturaPTMediumOblique.otf": "./static/media/FuturaPTMediumOblique.8c176828dcf86ea79c27.otf",
+    "static/media/FuturaPTBoldOblique.otf": "./static/media/FuturaPTBoldOblique.6f93cde76fbac14ccace.otf",
+    "static/media/FuturaPTExtraBoldOblique.otf": "./static/media/FuturaPTExtraBoldOblique.f4fd524b308f1dfb43ef.otf",
+    "static/media/FuturaPTHeavy.otf": "./static/media/FuturaPTHeavy.bee1d176707440e4d379.otf",
+    "static/media/FuturaPTCondExtraBoldOblique.otf": "./static/media/FuturaPTCondExtraBoldOblique.1666b4e7933d51d7daa2.otf",
+    "static/media/FuturaPTDemi.otf": "./static/media/FuturaPTDemi.2862dbd87fd60c04be93.otf",
+    "static/media/FuturaPTCondBoldOblique.otf": "./static/media/FuturaPTCondBoldOblique.9a0767ef0438df842138.otf",
+    "static/media/FuturaPTMedium.otf": "./static/media/FuturaPTMedium.7af6976ce738bec1704e.otf",
+    "static/media/FuturaPTLight.otf": "./static/media/FuturaPTLight.725c77b4e125ed776783.otf",
+    "static/media/FuturaPTCondMedium.otf": "./static/media/FuturaPTCondMedium.076f4da87eacd8770a75.otf",
+    "static/media/FuturaPTCondMediumOblique.otf": "./static/media/FuturaPTCondMediumOblique.a76ce7316e0ce3000ac8.otf",
+    "static/media/FuturaPTCondBookOblique.otf": "./static/media/FuturaPTCondBookOblique.7089c47271f14853504f.otf",
+    "static/media/FuturaPTCondExtraBold.otf": "./static/media/FuturaPTCondExtraBold.f025c7a1236dd762b9b3.otf",
+    "static/media/FuturaPTCondBold.otf": "./static/media/FuturaPTCondBold.d6be53dc53a6149ff157.otf",
+    "static/media/FuturaPTBook.otf": "./static/media/FuturaPTBook.bc305be0a88a100ad836.otf",
+    "static/media/FuturaPTCondBook.otf": "./static/media/FuturaPTCondBook.2cb7038fa6b4c9bc7e1c.otf",
+    "static/media/Radomir Tinkov - Gilroy-ExtraBold.otf": "./static/media/Radomir Tinkov - Gilroy-ExtraBold.f0feeaf3468f1ac2b9cd.otf",
+    "index.html": "./index.html",
+    "main.76e9c6d1.css.map": "./static/css/main.76e9c6d1.css.map",
+    "main.6a8044a7.js.map": "./static/js/main.6a8044a7.js.map",
+    "787.56e99e0e.chunk.js.map": "./static/js/787.56e99e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e9c6d1.css",
+    "static/js/main.6a8044a7.js"
+  ]
+}
