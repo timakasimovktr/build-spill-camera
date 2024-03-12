@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9cefc808.css",
-    "main.js": "./static/js/main.01e9a169.js",
+    "main.css": "./static/css/main.07e133a5.css",
+    "main.js": "./static/js/main.82a25560.js",
     "static/js/787.56e99e0e.chunk.js": "./static/js/787.56e99e0e.chunk.js",
     "static/media/FuturaPTDemiOblique.otf": "./static/media/FuturaPTDemiOblique.27ef7a10b75c35ece3b3.otf",
     "static/media/FuturaPTExtraBold.otf": "./static/media/FuturaPTExtraBold.b0a404e778ba6bde9d55.otf",
@@ -26,12 +26,12 @@
     "static/media/FuturaPTCondBook.otf": "./static/media/FuturaPTCondBook.2cb7038fa6b4c9bc7e1c.otf",
     "static/media/Radomir Tinkov - Gilroy-ExtraBold.otf": "./static/media/Radomir Tinkov - Gilroy-ExtraBold.f0feeaf3468f1ac2b9cd.otf",
     "index.html": "./index.html",
-    "main.9cefc808.css.map": "./static/css/main.9cefc808.css.map",
-    "main.01e9a169.js.map": "./static/js/main.01e9a169.js.map",
+    "main.07e133a5.css.map": "./static/css/main.07e133a5.css.map",
+    "main.82a25560.js.map": "./static/js/main.82a25560.js.map",
     "787.56e99e0e.chunk.js.map": "./static/js/787.56e99e0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cefc808.css",
-    "static/js/main.01e9a169.js"
+    "static/css/main.07e133a5.css",
+    "static/js/main.82a25560.js"
   ]
 }
