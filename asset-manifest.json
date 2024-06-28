@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.f83a6eae.css",
-    "main.js": "./static/js/main.4fb7ea99.js",
+    "main.js": "./static/js/main.46c01e1a.js",
     "static/js/787.56e99e0e.chunk.js": "./static/js/787.56e99e0e.chunk.js",
     "static/media/FuturaPTDemiOblique.otf": "./static/media/FuturaPTDemiOblique.27ef7a10b75c35ece3b3.otf",
     "static/media/FuturaPTExtraBold.otf": "./static/media/FuturaPTExtraBold.b0a404e778ba6bde9d55.otf",
@@ -27,11 +27,11 @@
     "static/media/Radomir Tinkov - Gilroy-ExtraBold.otf": "./static/media/Radomir Tinkov - Gilroy-ExtraBold.f0feeaf3468f1ac2b9cd.otf",
     "index.html": "./index.html",
     "main.f83a6eae.css.map": "./static/css/main.f83a6eae.css.map",
-    "main.4fb7ea99.js.map": "./static/js/main.4fb7ea99.js.map",
+    "main.46c01e1a.js.map": "./static/js/main.46c01e1a.js.map",
     "787.56e99e0e.chunk.js.map": "./static/js/787.56e99e0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f83a6eae.css",
-    "static/js/main.4fb7ea99.js"
+    "static/js/main.46c01e1a.js"
   ]
 }
